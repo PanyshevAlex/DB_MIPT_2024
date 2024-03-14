@@ -14,4 +14,3 @@ services:
       - mongonetwork
     volumes:
       - ./dataset:/dataset
-
